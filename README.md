@@ -1,5 +1,5 @@
 # Rockbuster_Project
-#####  A data analytics project based on a sample database of a fictitious DVD rental company “Rockbuster Stealth” using SQL queries as a part of Data Analytics course at CareerFoundry.
+#####  This is an analysis of the Sample Database of a fictious DVD rental company using PostgreSQL. This project is part of the careerfoundry data analytics course.
 #
 
 
