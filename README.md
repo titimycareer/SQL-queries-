@@ -1,2 +1,2 @@
-# SQL-queries-
+# Rockbuster_Project
 Description SQL-queries 
